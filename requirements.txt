@@ -1,0 +1,6 @@
+sqlalchemy
+pandas
+requests
+streamlit
+agno
+groq
